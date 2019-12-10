@@ -5,9 +5,6 @@ Vehicle Type Identification which supporting for 1776 kinds of models. Part of D
 
 [Models Table](label.txt)
 
-#### Update! 开放该项目训练所采用数据集，包含1776种车型，超过30万张图像。
-
-百度云 ： (链接: https://pan.baidu.com/s/1cwLmz95Tr1VOLS6u6ubN-g 提取码: cwv2)
 
 #### 特性
 
