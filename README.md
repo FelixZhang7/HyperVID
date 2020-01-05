@@ -6,6 +6,13 @@ Vehicle Type Identification which supporting for 1776 kinds of models. Part of D
 [Models Table](label.txt)
 
 
+#### 更新
+
+- 开放该项目训练所采用数据集，包含分类整理好的1776种车型，大约30万张图像。
+
+- 链接: https://pan.baidu.com/s/1ZtXvjwLzIMQodEp3SAbN8g 提取码: byhy （如果您采用该数据集或者我们的工程，请在项目中说明，谢谢。）
+
+
 #### 特性
 
 - 速度快，基于mobilenet设计，更适合移动端部署
