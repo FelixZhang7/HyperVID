@@ -26,7 +26,7 @@ Vehicle Type Identification which supporting for 1776 kinds of models. Part of D
 
 #### 识别测试APP
 
-- 体验 Android APP：[https://fir.im/HyperVID](https://fir.im/HyperVID)
+- 体验 Android APP：[http://demo.zeusee.com/HyperVID](http://demo.zeusee.com/HyperVID)
 
 - Windows 测试程序: (链接: https://pan.baidu.com/s/1h7DNck9pFQo_rmg04IbXjw 提取码: 7h45)
 
