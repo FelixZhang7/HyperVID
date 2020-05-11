@@ -24,11 +24,14 @@ Vehicle Type Identification which supporting for 1776 kinds of models. Part of D
 - 非常适合停车场卡口，结合车牌识别一同部署
 
 
-#### 识别测试APP
+#### 识别测试
 
-- 体验 Android APP：[http://demo.zeusee.com/HyperVID](http://demo.zeusee.com/HyperVID)
+- 在线体验: [http://www.zeusee.com/#/vehicle-recognition](http://www.zeusee.com/#/vehicle-recognition)
 
-- Windows 测试程序: (链接: https://pan.baidu.com/s/1h7DNck9pFQo_rmg04IbXjw 提取码: 7h45)
+- 开源项目 Android APP：[http://demo.zeusee.com/HyperVID](http://demo.zeusee.com/HyperVID)
+
+- 开源项目 Windows 测试程序: (链接: https://pan.baidu.com/s/1h7DNck9pFQo_rmg04IbXjw 提取码: 7h45)
+
 
 #### Demo Image on Android
 
